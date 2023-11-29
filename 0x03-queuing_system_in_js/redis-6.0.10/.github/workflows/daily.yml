@@ -186,3 +186,7 @@ jobs:
       run: ./runtest-sentinel
     - name: cluster tests
       run: ./runtest-cluster
+<<<<<<< HEAD
+=======
+
+>>>>>>> e47e4a8a69e41f7a5f686386b807f564095be9f4
